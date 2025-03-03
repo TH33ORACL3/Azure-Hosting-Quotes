@@ -10,11 +10,11 @@ document.addEventListener('DOMContentLoaded', function() {
     
     // Resource descriptions
     const resourceDescriptions = {
-        vm: "Virtual machine for hosting your applications and services",
-        vpnGateway: "Secure connection between your on-premises network and Azure",
-        managedDisks: "Storage for your virtual machine data",
-        virtualNetwork: "Private network in Azure for your resources",
-        azureBackup: "Backup service for your data and applications"
+        vm: "Host your applications with scalable virtual machines",
+        vpnGateway: "Secure VPN connection to your on-premises network",
+        managedDisks: "High-performance storage for VM data",
+        virtualNetwork: "Private Azure network for your resources",
+        azureBackup: "Automated backup for data protection"
     };
     
     // Simplified pricing data for both tiers (in ZAR)
